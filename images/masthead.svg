@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="masthead.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   id="svg3765"
+   version="1.1"
+   viewBox="0 0 211.66666 21.166667"
+   height="80"
+   width="800">
+  <defs
+     id="defs3759">
+    <rect
+       id="rect4340"
+       height="27.453795"
+       width="120.71287"
+       y="34.579208"
+       x="10.89769" />
+    <rect
+       id="rect4332"
+       height="16.765677"
+       width="211.66667"
+       y="0.41914192"
+       x="-0.20957096" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="25"
+     inkscape:window-height="915"
+     inkscape:window-width="1575"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="40"
+     inkscape:cx="400"
+     inkscape:zoom="1.2625"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata3762">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="0.41914192"
+       x="-0.20957096"
+       height="22.004951"
+       width="213.13367"
+       id="rect4328"
+       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:#ab0000;stroke-width:0.264583;paint-order:stroke fill markers" />
+    <text
+       transform="matrix(3.4022664,0,0,2.045548,-252.94294,-6.5025059)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;white-space:pre;shape-inside:url(#rect4332);fill:#3d226d;fill-opacity:1"
+       id="text4330"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="82.276686"
+         y="10.023032"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3d226d;fill-opacity:1">जन</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3d226d;fill-opacity:1">-</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#3d226d;fill-opacity:1">स्वास्थ्य</tspan></tspan></text>
+    <text
+       transform="matrix(1.4058001,0,0,0.88083128,42.491309,-13.877656)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58610999999999969px;line-height:1.25;font-family:Chalkboard;-inkscape-font-specification:'Chalkboard Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;white-space:pre;shape-inside:url(#rect4340);fill:#e7182c;fill-opacity:1"
+       id="text4338"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="39.008796"
+         y="38.712889"><tspan>जटील स्वास्थ्य प्रणालीको गहिरो बुझाइ</tspan></tspan></text>
+  </g>
+</svg>
